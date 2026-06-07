@@ -29,3 +29,5 @@ Tells you which apps on your PC are bloatware or spyware.
 
 http://12ft.io
 Removes paywalls from news sites so reading stays free.
+
+https://onlylans.justhacking.com/
