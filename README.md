@@ -10,6 +10,8 @@ https://intelbase.is
 
 https://pentester.com
 
+https://www.osinthandbook.com/
+
 http://amiunique.org
 Tells you how trackable your browser fingerprint really is.
 
