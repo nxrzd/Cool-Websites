@@ -6,6 +6,10 @@ Shows every data breach your email has ever leaked in.
 http://behindtheemail.com
 Reveals every social profile and login tied to any email address.
 
+https://intelbase.is
+
+https://pentester.com
+
 http://amiunique.org
 Tells you how trackable your browser fingerprint really is.
 
@@ -31,3 +35,6 @@ http://12ft.io
 Removes paywalls from news sites so reading stays free.
 
 https://onlylans.justhacking.com/
+
+https://picoctf.org
+
