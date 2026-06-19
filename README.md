@@ -54,3 +54,17 @@ https://whois.domaintools.com/
 threatyeti.com
 
 https://maxintel.org/
+
+https://www.digitalfootprintcheck.com/osint-tools-free
+
+https://infosecwriteups.com/osint-how-to-find-hidden-data-leaks-using-free-tools-b1f1613dc638
+
+https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931
+
+https://medium.com/@anmolvats220703/get-to-know-password-osint-tools-19eafb0cc197
+
+https://github.com/jivoi/awesome-osint
+
+https://github.com/khast3x/h8mail
+
+https://flashpoint.io/osint-tools-library/
