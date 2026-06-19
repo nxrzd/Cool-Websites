@@ -42,7 +42,10 @@ https://picoctf.org
 
 req formatting:
 
-Have I Been Pwned – https://haveibeenpwned.com/ 2. AbuseIPDB – https://www.abuseipdb.com/ 3. urlscan.io – https://urlscan.io/ 4. CentralOps Network Tools – https://centralops.net/co/ 5. VirusTotal – https://www.virustotal.com/ 6. Hybrid Analysis – https://www.hybrid-analysis.com/ 7. MXToolbox – https://mxtoolbox.com/ 8. SSL Labs’ SSL Test – https://www.ssllabs.com/ssltest/ 9. OSINT Frame.work – https://osintframe.work 10. CIRCL’s Lookyloo – https://lookyloo.circl.lu/ 11. ARIN Whois – https://www.arin.net/ 12. CVE List – https://cve.mitre.org/cve/ 13. Shodan – https://www.shodan.io/ 14. AlienVault Open Threat Exchange (OTX) – https://otx.alienvault.com/ 15. Censys – https://censys.io/
+Have I Been Pwned – https://haveibeenpwned.com/ 2. AbuseIPDB – https://www.abuseipdb.com/ 3. urlscan.io – https://urlscan.io/ 4. CentralOps Network Tools – https://centralops.net/co/ 5. VirusTotal – https://www.virustotal.com/ 6. Hybrid Analysis – https://www.hybrid-analysis.com/ 7. MXToolbox – https://mxtoolbox.com/ 8. SSL Labs’ SSL Test – https://www.ssllabs.com/ssltest/ 9. OSINT Frame.work – https://osintframe.work 10. CIRCL’s Lookyloo – https://lookyloo.circl.lu/ 11. ARIN Whois – https://www.arin.net/ 12. CVE List – https://cve.mitre.org/cve/ 13. Shodan – https://www.shodan.io/ 14. AlienVault Open Threat Exchange
+(OTX) – https://otx.alienvault.com/ 15. Censys – https://censys.io/
 
-569
+
+
+https://dnsdumpster.com/569
 ·
