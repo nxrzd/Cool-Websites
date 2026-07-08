@@ -35,6 +35,8 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | **Shodan** | https://www.shodan.io/ | Search engine for internet-connected devices, servers, and exposed services. |
 | **Censys** | https://censys.io/ | Discover internet-facing hosts, certificates, domains, and exposed services. |
 | **ZoomEye** | https://www.zoomeye.ai/ | Internet asset search engine for identifying exposed devices and infrastructure. |
+| **Insecam (.org)** | http://insecam.org/ | Directory of publicly accessible IP cameras discovered via internet search. Intended for awareness, research, and security auditing. |
+| **Insecam (.com)** | http://insecam.com/ | Mirror of Insecam providing access to indexed publicly accessible IP cameras for security awareness and research. |
 
 ---
 
