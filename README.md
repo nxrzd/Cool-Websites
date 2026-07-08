@@ -1,70 +1,134 @@
-# Cool-Websites
+# 🛡️ Awesome Cybersecurity & OSINT Resources
 
-http://haveibeenpwned.com
-Shows every data breach your email has ever leaked in.
+A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threat intelligence resources.
 
-http://behindtheemail.com
-Reveals every social profile and login tied to any email address.
+---
 
-https://intelbase.is
+# 📧 Email Intelligence
 
-https://pentester.com
+| Tool | Description |
+|------|-------------|
+| **Have I Been Pwned** | Check whether your email address or password has appeared in known data breaches. |
+| **Behind the Email** | Discover publicly available accounts, usernames, and profiles associated with an email address. |
+| **h8mail** | Open-source tool for searching email addresses across public breach datasets. |
 
-https://www.osinthandbook.com/
+---
 
-http://amiunique.org
-Tells you how trackable your browser fingerprint really is.
+# 🌐 Domain, DNS & Network Reconnaissance
 
-http://dnsleaktest.com
-Checks if your VPN is actually working or silently exposing your real IP.
+| Tool | Description |
+|------|-------------|
+| **DNSDumpster** | Map DNS records, discover subdomains, and visualize network infrastructure. |
+| **DNS Leak Test** | Verify whether your VPN is leaking DNS requests and exposing your ISP. |
+| **CentralOps Network Tools** | Collection of DNS, WHOIS, traceroute, and network diagnostic utilities. |
+| **MXToolbox** | Analyze DNS, MX records, email configuration, and blacklist status. |
+| **DomainTools WHOIS** | Research domain ownership, registration history, and DNS information. |
+| **ARIN WHOIS** | Look up IP address ownership and network allocation information. |
+| **SSL Labs SSL Test** | Analyze SSL/TLS configurations and identify security weaknesses. |
 
-http://justdeleteme.xyz
-Direct links to delete your account from any major service.
+---
 
-http://virustotal.com
-Scans any file or link against 70+ antivirus engines in seconds.
+# 🌍 Internet Asset Search Engines
 
-http://exposing.ai
-Shows if your face was used to train AI models without consent.
+| Tool | Description |
+|------|-------------|
+| **Shodan** | Search engine for internet-connected devices, servers, and exposed services. |
+| **Censys** | Discover internet-facing hosts, certificates, domains, and exposed services. |
+| **ZoomEye** | Internet asset search engine for identifying exposed devices and infrastructure. |
 
-http://browserleaks.com
-Exposes every piece of data your browser leaks to websites.
+---
 
-http://shouldiremoveit.com
-Tells you which apps on your PC are bloatware or spyware.
+# 🔍 Website & URL Investigation
 
-http://12ft.io
-Removes paywalls from news sites so reading stays free.
+| Tool | Description |
+|------|-------------|
+| **VirusTotal** | Scan files, URLs, domains, and IPs using dozens of antivirus engines and threat intelligence feeds. |
+| **Hybrid Analysis** | Analyze suspicious files and malware safely inside an interactive sandbox. |
+| **urlscan.io** | Inspect websites to view requests, redirects, technologies, and network activity. |
+| **Lookyloo (CIRCL)** | Analyze websites through archived browser sessions to inspect page behavior and resources. |
 
-https://onlylans.justhacking.com/
+---
 
-https://picoctf.org
+# 🛡️ Threat Intelligence
 
-req formatting:
+| Tool | Description |
+|------|-------------|
+| **AlienVault Open Threat Exchange (OTX)** | Community-driven platform for sharing indicators of compromise (IOCs) and threat intelligence. |
+| **ThreatYeti** | Search threat intelligence data, indicators, and cyber threat information. |
+| **MITRE CVE List** | Official catalog of publicly disclosed cybersecurity vulnerabilities and exposures. |
 
-Have I Been Pwned – https://haveibeenpwned.com/ 2. AbuseIPDB – https://www.abuseipdb.com/ 3. urlscan.io – https://urlscan.io/ 4. CentralOps Network Tools – https://centralops.net/co/ 5. VirusTotal – https://www.virustotal.com/ 6. Hybrid Analysis – https://www.hybrid-analysis.com/ 7. MXToolbox – https://mxtoolbox.com/ 8. SSL Labs’ SSL Test – https://www.ssllabs.com/ssltest/ 9. OSINT Frame.work – https://osintframe.work 10. CIRCL’s Lookyloo – https://lookyloo.circl.lu/ 11. ARIN Whois – https://www.arin.net/ 12. CVE List – https://cve.mitre.org/cve/ 13. Shodan – https://www.shodan.io/ 14. AlienVault Open Threat Exchange
-(OTX) – https://otx.alienvault.com/ 15. Censys – https://censys.io/
+---
 
+# 🕵️ OSINT Platforms & Frameworks
 
+| Tool | Description |
+|------|-------------|
+| **Intelbase** | OSINT search platform for investigating leaked data, emails, IPs, domains, and usernames. |
+| **MaxIntel** | Intelligence platform for OSINT investigations and digital reconnaissance. |
+| **OSINT Handbook** | Comprehensive guide to OSINT methodologies, tools, and investigative techniques. |
+| **OSINT Frame.work** | Curated directory of OSINT resources organized by investigation category. |
+| **Awesome OSINT** | One of the largest GitHub collections of OSINT tools and resources. |
+| **Flashpoint OSINT Tools Library** | Extensive library of OSINT tools categorized by investigative purpose. |
+| **Digital Footprint Check** | Collection of free OSINT tools for digital investigations and online research. |
 
-https://dnsdumpster.com/569
-·
-https://whois.domaintools.com/
+---
 
-threatyeti.com
+# 🔒 Privacy & Browser Security
 
-https://maxintel.org/
+| Tool | Description |
+|------|-------------|
+| **BrowserLeaks** | View the information your browser exposes to websites, including fingerprinting data. |
+| **AmIUnique** | Measure how unique and trackable your browser fingerprint is. |
+| **Exposing.ai** | Check whether publicly available images may have been included in AI training datasets. |
+| **Just Delete Me** | Find direct links and instructions for deleting accounts from hundreds of online services. |
 
-https://www.digitalfootprintcheck.com/osint-tools-free
+---
 
-https://infosecwriteups.com/osint-how-to-find-hidden-data-leaks-using-free-tools-b1f1613dc638
+# 💻 System & Security Utilities
 
-https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931
+| Tool | Description |
+|------|-------------|
+| **Should I Remove It?** | Identify unnecessary, unwanted, or potentially risky software installed on Windows. |
 
-https://medium.com/@anmolvats220703/get-to-know-password-osint-tools-19eafb0cc197
+---
 
-https://github.com/jivoi/awesome-osint
+# 🔐 Penetration Testing
 
-https://github.com/khast3x/h8mail
+| Tool | Description |
+|------|-------------|
+| **Pentester.com** | Collection of penetration testing, reconnaissance, and security assessment tools. |
 
-https://flashpoint.io/osint-tools-library/
+---
+
+# 🤖 AI-Powered Security
+
+| Tool | Description |
+|------|-------------|
+| **Osiris AI** | AI-assisted platform for OSINT research and cyber investigations. |
+
+---
+
+# 🎓 Learning & Practice
+
+| Tool | Description |
+|------|-------------|
+| **picoCTF** | Free Capture the Flag platform for learning cybersecurity through hands-on challenges. |
+| **OnlyLANS** | Interactive networking and cybersecurity lab for learning infrastructure concepts. |
+
+---
+
+# 📚 Articles & Learning Resources
+
+| Resource | Description |
+|---------|-------------|
+| **OSINT: How to Find Hidden Data Leaks Using Free Tools** | Tutorial covering techniques for identifying publicly exposed data. |
+| **15 Free OSINT Tools (2026 Guide)** | Beginner-friendly overview of useful free OSINT resources. |
+| **Password OSINT Tools** | Introduction to researching leaked passwords and exposed credentials. |
+
+---
+
+# 🌎 Situational Awareness
+
+| Tool | Description |
+|------|-------------|
+| **WorldMonitor** | Monitor global events, cyber incidents, and open-source intelligence feeds. |
