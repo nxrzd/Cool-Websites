@@ -134,3 +134,56 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | Tool | URL | Description |
 |------|-----|-------------|
 | **WorldMonitor** | https://www.worldmonitor.app/ | Monitor global events, cyber incidents, and open-source intelligence feeds. |
+
+# unsorted entries
+
+1. unpaywall.org — Free research papers
+2. openlibrary.org — Borrow books online
+3. doaj.org — Free academic journals
+4. alternativeto.net — App alternatives
+5. justwatch.com — Find where to stream
+6. archive.org — Internet archives
+7. gutenberg.org — 70K+ free books
+8. openstax.org — Free textbooks
+9. openculture.com — Free courses
+10. wolframalpha.com — Solve complex problems
+11. photopea.com — Photoshop alternative
+12. squoosh.app — Compress images
+13. remove.bg — Remove backgrounds
+14. cleanup.pictures — Remove objects
+15. unscreen.com — Remove video backgrounds
+16. carbon.now.sh — Beautiful code images
+17. ray.so — Code screenshots
+18. shots.so — Product mockups
+19. smartmockups.com — Create mockups
+20. haveibeenpwned.com — Check data breaches
+21. virustotal.com — Scan files & URLs
+22. privnote.com — Self-destructing notes
+23. temp-mail.org — Temporary email
+24. file.io — Temporary file sharing
+25. archive.ph — Save webpages
+26. similarsites.com — Find similar websites
+27. radio.garden — Explore global radio
+28. everynoise.com — Discover music genres
+29. tunefind.com — Find songs from shows
+30. musicforprogramming.net — Focus music
+31. mynoise.net — Custom background sounds
+32. coffitivity.com — Café ambience
+33. elicit.org — Research assistant
+34. consensus.app — Research-backed answers
+35. connectedpapers.com @sauda_coder — Research connections
+36. semanticscholar.org — Academic search
+37. scispace.com — Understand research papers
+38. summarize.tech — YouTube summaries
+39. phind.com — AI for developers
+40. regex101.com — Test regex
+41. codebeautify.org — Format code
+42. jsonformatter.org — Format JSON
+43. explainshell.com — Understand terminal commands
+44. raindrop.io — Bookmark manager
+45. downdetector.com — Check outages
+46. tineye.com — Reverse image search
+47. fast.com — Internet speed test
+48. smallpdf.com — PDF tools
+49. ilovepdf.com — Merge/split PDFs
+50. 10minutemail.com — Temporary email
