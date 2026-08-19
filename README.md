@@ -187,3 +187,87 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 48. smallpdf.com — PDF tools
 49. ilovepdf.com — Merge/split PDFs
 50. 10minutemail.com — Temporary email
+
+1. raphael.ai — Free Unlimited AI Image Generation
+Quality Comparable to Midjourney
+
+2. krea.ai — Real-Time AI Image Generation
+Generate Images as You Draw
+
+3. magnific.ai — AI Unlimited Image Upscaling
+Details Automatically Filled In
+
+4. clipdrop.co — AI One-Click Background Removal/Light Editing/Eraser
+
+5. elevenlabs.io — AI Voice Cloning
+Master Any Voice in 5 Seconds
+
+6. suno.com — Input Lyrics
+Automatically Generate Full Songs
+
+7. runwayml.com — AI Video Generation Pioneer
+Free Gen-3 Trial
+
+8. klingai.kuaishou.com — Kuaishou Keling AI
+The Smoothest Chinese Video Generation
+
+9. d-id.com — One Photo + One Audio Clip
+Generate a Talking Digital Human
+
+10. sadtalker.ai — Turn Static Photos into Talking Videos
+
+11. cursor.com — AI Code Writer
+Free Quota Sufficient for Daily Use
+
+12. bolt.new — Build Websites by Talking
+Zero Code
+
+13. v0.app — Vercel AI Frontend Generator
+Descriptions Turn into Webpages
+
+14. replit.com — Browser Programming + AI Assistance
+One-Click Deployment
+
+15. napkin.ai — Paste Text
+Automatically Generate Infographics
+
+16. gamma.app — AI One-Click PPT Generation
+Say Goodbye to PPT Hell
+
+17. notion.com/product/ai — Notion AI
+Writing/Summarizing/Translating
+
+18. uizard.io — Sketch a Draft
+AI Generates Real Webpages
+
+19. perplexity.ai — AI Search Engine
+Instant Answers + Sources
+
+20. phind.com — Developer-Exclusive AI Search
+Code Issues Solved on Search
+
+21. otter.ai — Real-Time Meeting Transcription
+Free 300 Minutes per Month
+
+22. opus.pro — AI Short Video Editing
+Automatically Find Highlight Clips
+
+23. poe.com — One-Stop Use of GPT-4o/Claude/Gemini
+
+24. huggingface.co/spaces — Free Trials of Open-Source AI Models
+
+25. remove.bg — One-Click AI Background Removal
+Images in 1 Second
+
+26. cleanup.pictures — AI Removes Any Object from Photos
+
+27. deepswap.ai — AI Face Swap
+Images in 1 Minute
+
+28. musiio.com — AI Music Tagging + Recommendations
+
+29. jasper.ai/free — AI Writing Assistant
+Free Version Sufficient for Daily Use
+
+30. claude.ai — Anthropic Free AI Assistant
+Top-Tier Long Text Processing
