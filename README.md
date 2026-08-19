@@ -271,3 +271,58 @@ Free Version Sufficient for Daily Use
 
 30. claude.ai — Anthropic Free AI Assistant
 Top-Tier Long Text Processing
+
+
+
+
+
+1. unpaywall.org — Free research papers
+2. openlibrary.org — Borrow books online
+3. theailibrary.co — 5,000+ AI tools in one directory
+4. gutenberg.org — 70K+ free books
+5. portfoliotab.io — Build a portfolio brands can find you through
+6. openstax.org — Free textbooks
+7. openculture.com — Free courses
+8. doaj.org — Free academic journals
+9. semanticscholar.org — Academic search
+10. connectedpapers.com — Map how papers connect
+11. scispace.com — Understand dense papers
+12. elicit.org — Research assistant
+13. consensus.app — Research backed answers
+14. summarize.tech — YouTube summaries
+15. notebooklm.google.com — Turn your documents into study guides
+16. wolframalpha.com — Solve complex problems
+17. photopea.com — Photoshop in your browser
+18. squoosh.app — Compress images
+19. remove.bg — Strip backgrounds
+20. cleanup.pictures — Delete objects from photos
+21. unscreen.com — Strip video backgrounds
+22. shots.so — Product mockups
+23. ray.so — Turn code into screenshots
+24. haveibeenpwned.com — Check if you have been breached
+25. virustotal.com — Scan a file or link before opening it
+26. privnote.com — Notes that delete themselves
+27. temp-mail.org — Throwaway email address
+28. justdelete.me — How to delete any account
+29. namechk.com — See where your username exists
+30. tineye.com — Reverse image search
+31. ilovepdf.com — Merge, split and compress PDFs
+32. file.io — Temporary file sharing
+33. wetransfer.com — Send big files
+34. codebeautify.org — Format code and data
+35. archive.org — The internet's memory
+36. archive.ph — Save a page before it disappears
+37. downdetector.com — Check if it is down for everyone
+38. fast.com — Speed test
+39. alternativeto.net — A cheaper version of any app
+40. similarsites.com — Find sites like this one
+41. musicforprogramming.net — Focus music
+42. mynoise.net — Build your own background noise
+43. coffitivity.com — Cafe ambience
+44. radio.garden — Spin the globe, hear local radio
+45. everynoise.com — Every genre that exists
+46. tunefind.com — Find the song from that scene
+47. justwatch.com — Find where anything is streaming
+48. regex101.com — Test regex
+49. explainshell.com — Decode terminal commands
+50. deepl.com — The most accurate translator
